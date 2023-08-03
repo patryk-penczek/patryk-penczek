@@ -69,6 +69,16 @@ Technologies Used:
 
 Live demo: [Typing Speed Test](https://typing.patrykpenczek.pl)
 
+### Guess Character
+Guess Character is a web-based game that challenges players to guess the names of various gaming characters from popular video games. The objective is to correctly identify as many characters as possible within a time limit. 
+
+Technologies Used:
+- JavaScript
+- Sass
+- HTML5
+
+Live demo: [Guess Character](https://guesscharacter.patrykpenczek.pl/)
+
 </details>
 
 <details>
